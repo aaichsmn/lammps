@@ -13,6 +13,7 @@
 
 #include "memory.h"
 #include <cstdlib>
+#include <cstring>
 #include "error.h"
 
 #if defined(LMP_USER_INTEL) && defined(__INTEL_COMPILER)
